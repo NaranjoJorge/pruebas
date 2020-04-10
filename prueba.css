@@ -1,0 +1,25 @@
+#header {
+  background: red;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  font-size: 55px;
+}
+
+#flavors {
+  background: aqua;
+  height: 500px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+#purchase {
+  background: lime;
+  height: 200px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
